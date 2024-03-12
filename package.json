@@ -13,11 +13,9 @@
   "license": "UNLICENSED",
   "type": "module",
   "dependencies": {
-    "@inquirer/core": "^7.0.2",
     "@inquirer/prompts": "^4.2.0"
   },
   "devDependencies": {
-    "@inquirer/testing": "^2.1.12",
     "eslint": "^8.57.0",
     "eslint-config-semistandard": "^17.0.0",
     "eslint-config-standard": "^17.1.0",
