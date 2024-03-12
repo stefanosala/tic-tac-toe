@@ -1,10 +1,11 @@
 {
   "name": "tic-tac-toe",
   "version": "1.0.0",
-  "description": "",
+  "description": "Command Line Interface implemenation of the classic Tic Tac Toe game",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
+    "start": "node index.js",
     "test": "npm run lint && npm run vitest",
     "vitest": "vitest --run",
     "vitest:watch": "vitest"
