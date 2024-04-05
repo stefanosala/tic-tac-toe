@@ -17,7 +17,7 @@
     "@inquirer/prompts": "^4.3.0"
   },
   "devDependencies": {
-    "@inquirer/testing": "^2.1.13",
+    "@inquirer/testing": "^2.1.14",
     "eslint": "^8.57.0",
     "eslint-config-semistandard": "^17.0.0",
     "eslint-config-standard": "^17.1.0",
